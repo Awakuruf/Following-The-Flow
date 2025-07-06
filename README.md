@@ -36,7 +36,7 @@ An interactive Unity experience where players can engage with a calm, grounded D
 
 4. Press Play to explore and interact with the world.
  
-- * Make sure your backend is running before pressing Play in Unity. * 
+- Make sure your backend is running before pressing Play in Unity. 
 
 ## Folder Structure
 
