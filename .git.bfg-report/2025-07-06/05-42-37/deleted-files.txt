@@ -1,0 +1,3 @@
+07cd4a64d2c6a68da170e5abd53811dda3325a90 301747601 DetailTextures.rar
+5fac33d7d1ebdd02bf417afc23bd48ff01d0cdad 139088219 Normal Atlas.png
+6e7d8df30f85c16e804b1ebcbf85ecb37efdfa34 163046048 PBR Atlas.png
