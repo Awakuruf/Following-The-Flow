@@ -35,29 +35,8 @@ An interactive Unity experience where players can engage with a calm, grounded D
 3. Ensure scenes are added to your Build Settings.
 
 4. Press Play to explore and interact with the world.
-
-## Python Backend (Chatbot)
-1. Create a virtual environment:
-
-```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the FastAPI server:
-```bash
-uvicorn main:app --reload
-```
-
-4. The Unity game will POST messages to ```http://127.0.0.1:8000/chat```.
-
-- 💡 Make sure your backend is running before pressing Play in Unity.
+ 
+- * Make sure your backend is running before pressing Play in Unity. * 
 
 ## Folder Structure
 
@@ -75,12 +54,5 @@ Assets/
 - Stuck pushing to GitHub?
 Use Git LFS and clean large files with BFG.
 
-- Long response times from AI?
-Consider:
-
-    - Reducing max_new_tokens
-    - Using smaller models like mistral-7b-instruct in 4-bit mode
-    - Chunking your documents more efficiently
-
-## 📜 License
+## License
 MIT License. Feel free to remix or adapt for educational and non-commercial purposes.
