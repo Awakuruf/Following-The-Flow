@@ -52,6 +52,7 @@ Assets/
 ## Troubleshooting
 
 - Stuck pushing to GitHub?
+
 Use Git LFS and clean large files with BFG.
 
 ## License
