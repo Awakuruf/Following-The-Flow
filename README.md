@@ -26,7 +26,7 @@ An interactive Unity experience where players can engage with a calm, grounded D
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/<your-username>/Daoism-Light.git
+   git clone https://github.com/Awakuruf/Daoism-Light.git
    cd Daoism-Light
    ```
 
