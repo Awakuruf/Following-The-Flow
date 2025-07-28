@@ -1,4 +1,4 @@
-# Daoism Light 
+# Following The Flow
 
 An interactive Unity experience where players can engage with a calm, grounded Daoist AI companion inspired by the teachings of Laozi and Zhuangzi.
 
